@@ -101,16 +101,12 @@ else:
 ```
 ## Sample Input and Output
 ###linear_search
-![image](https://github.com/Kathiresan-23013376/Search-Algorithms/assets/150008375/0c4e461e-a0a6-4c12-9d85-b35e9a6fda2e)
-
+![Screenshot 2024-04-14 171313](https://github.com/Kathiresan-23013376/Search-Algorithms/assets/150008375/483667b3-6c34-4c92-a546-de56580a241d)
 ###binary_search
-![image](https://github.com/Kathiresan-23013376/Search-Algorithms/assets/150008375/c19c62b9-9844-4b22-805a-1a9a2ca7d35b)
+![image](https://github.com/Kathiresan-23013376/Search-Algorithms/assets/150008375/8f93a070-4cce-45c2-9415-da280ddd0202)
 ###binary_search(using recursive function)
-
-
-![image](https://github.com/Kathiresan-23013376/Search-Algorithms/assets/150008375/3afb0686-b0cd-4ba2-939c-78de87c8f552)
-
-
-
+![Screenshot 2024-04-14 171313](https://github.com/Kathiresan-23013376/Search-Algorithms/assets/150008375/51c157f2-9168-429e-b9ef-4d394a8e87cb)
 ## Result
+![Screenshot 2024-04-14 171930](https://github.com/Kathiresan-23013376/Search-Algorithms/assets/150008375/bf0c291e-0060-4766-a970-1054e752631f)
+
 Thus the linear search and binary search algorithm is implemented using python programming.
